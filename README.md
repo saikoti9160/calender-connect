@@ -1,4 +1,6 @@
 # Calender Connect — Scheduling SaaS Platform
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 12_07_07 AM" src="https://github.com/user-attachments/assets/7d876b2f-3dce-460a-95d7-9104a4d40e79" />
+
 
 A production-grade **Calendly Clone** built with a **Java Spring Boot** backend and **React** frontend. This application offers a full-stack solution for appointment scheduling, including public booking pages, availability management, and admin controls.
 
