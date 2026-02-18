@@ -19,17 +19,18 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
   mail:
-    host: smtp.gmail.com
+    host: email-smtp.ap-south-1.amazonaws.com
     port: 587
-    username: ${MAIL_USERNAME:noreply@schedulr.com}
-    password: ${MAIL_PASSWORD:}
+    username: ${MAIL_USERNAME:TestUser}
+    password: ${MAIL_PASSWORD:Test+KNejVrvrM/pIBbL}
     properties:
       mail:
         smtp:
           auth: true
           starttls:
             enable: true
-
+from:
+  email: ${MAIL_FROM:info-test@digiworldexpo.com}
 server:
   port: 8080
   servlet:
