@@ -1,24 +1,35 @@
 # Calender Connect — Scheduling SaaS Platform
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 12_07_07 AM" src="https://github.com/user-attachments/assets/7d876b2f-3dce-460a-95d7-9104a4d40e79" />
+
 
 A production-grade **Calendly Clone** built with a **Java Spring Boot** backend and **React** frontend. This application offers a full-stack solution for appointment scheduling, including public booking pages, availability management, and admin controls.
 
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard Placeholder](./screenshots/dashboard.png)
+<img width="1908" height="973" alt="image" src="https://github.com/user-attachments/assets/6aa5ef95-2964-424b-9fd7-6b669f03d267" />
+
 *Overview of upcoming meetings and quick stats.*
 
 ### Event Types
-![Event Types Placeholder](./screenshots/event_types.png)
+!<img width="1910" height="863" alt="image" src="https://github.com/user-attachments/assets/6c13d847-e60b-4bf1-97a3-6e265014313c" />
+
 *Manage your different meeting types and configurations.*
 
 ### Availability
-![Availability Placeholder](./screenshots/availability.png)
+!<img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/3d77efdb-19ea-48c0-9080-8aaac0b58bbd" />
+
 *Configure your weekly schedule with an intuitive toggle editor.*
 
 ### Public Booking Flow
-![Public Booking Placeholder](./screenshots/public_booking.png)
+<img width="1326" height="853" alt="image" src="https://github.com/user-attachments/assets/51ec863e-cbd3-4ac9-9edd-24ecdbd8185c" />
+
 *Clean, frictionless booking experience for your guests.*
+
+
+Admin Panel
+<img width="1877" height="859" alt="image" src="https://github.com/user-attachments/assets/f124b4f2-5ed6-4552-ac55-43748e38bd04" />
+
 
 ---
 
