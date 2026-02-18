@@ -1,8 +1,24 @@
-# Schedulr — Scheduling SaaS Platform
+# Calender Connect — Scheduling SaaS Platform
 
-A production-grade **Calendly Cnct** built with a **Java Spring Boot** backend and **React** frontend. This application offers a full-stack solution for appointment scheduling, including public booking pages, availability management, and admin controls.
+A production-grade **Calendly Clone** built with a **Java Spring Boot** backend and **React** frontend. This application offers a full-stack solution for appointment scheduling, including public booking pages, availability management, and admin controls.
 
-![Schedulr](https://via.placeholder.com/800x400?text=Schedulr+Platform+Preview)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard Placeholder](./screenshots/dashboard.png)
+*Overview of upcoming meetings and quick stats.*
+
+### Event Types
+![Event Types Placeholder](./screenshots/event_types.png)
+*Manage your different meeting types and configurations.*
+
+### Availability
+![Availability Placeholder](./screenshots/availability.png)
+*Configure your weekly schedule with an intuitive toggle editor.*
+
+### Public Booking Flow
+![Public Booking Placeholder](./screenshots/public_booking.png)
+*Clean, frictionless booking experience for your guests.*
 
 ---
 
