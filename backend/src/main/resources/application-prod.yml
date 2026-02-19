@@ -2,8 +2,6 @@ spring:
   application:
     name: schedulr-api
 
-
-
   datasource:
     url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
@@ -25,7 +23,6 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: false
 
-spring:
   mail:
     host: ${MAIL_HOST:}
     port: ${MAIL_PORT:587}
@@ -68,6 +65,7 @@ springdoc:
   api-docs:
     enabled: true
     path: /v3/api-docs
+
   swagger-ui:
     enabled: true
     path: /swagger-ui.html
