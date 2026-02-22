@@ -97,12 +97,6 @@ export default function LoginPage() {
                     </p>
                 </div>
 
-                {/* Demo credentials */}
-                <div style={{ marginTop: 16, padding: 16, background: 'rgba(99,102,241,0.08)', borderRadius: 12, border: '1px solid var(--border)' }}>
-                    <p style={{ fontSize: 12, color: 'var(--text-muted)', textAlign: 'center' }}>
-                        Demo: <strong style={{ color: 'var(--text-secondary)' }}>admin@calendly.com</strong> / <strong style={{ color: 'var(--text-secondary)' }}>admin123</strong>
-                    </p>
-                </div>
             </div>
         </div>
     );
